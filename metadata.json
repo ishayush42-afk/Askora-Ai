@@ -1,0 +1,6 @@
+{
+  "name": "Askora AI - Conversational Voice & Intelligence",
+  "description": "Next-gen conversational voice assistant and real-time intelligence hub. Speak naturally with Askora, get real-time accurate weather, and explore smart utilities in Nepali and English.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

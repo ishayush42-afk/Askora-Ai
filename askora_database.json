@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": "USR-716630",
+      "username": "aayush99",
+      "password": "aayush99",
+      "role": "user",
+      "createdAt": "2026-10-30T14:17:12.044Z",
+      "isBanned": false,
+      "lastActive": "2026-10-30T14:20:36.761Z",
+      "device": "Mobile Device"
+    }
+  ],
+  "searchHistory": [
+    {
+      "userId": "USR-716630",
+      "username": "aayush99",
+      "query": "K xa",
+      "timestamp": "2026-10-30T14:21:27.948Z",
+      "hasImage": false
+    },
+    {
+      "userId": "USR-716630",
+      "username": "aayush99",
+      "query": "Owner details",
+      "timestamp": "2026-10-30T14:22:51.261Z",
+      "hasImage": false
+    },
+    {
+      "userId": "ADMIN-AAYUSH",
+      "username": "Unknown",
+      "query": "Puti vaneko K ho",
+      "timestamp": "2026-10-30T14:27:30.909Z",
+      "hasImage": false
+    },
+    {
+      "userId": "ADMIN-AAYUSH",
+      "username": "Unknown",
+      "query": "60 sad lines deu breakup khalko 1 2 gardai AALAG aalag",
+      "timestamp": "2026-10-30T14:28:13.232Z",
+      "hasImage": false
+    },
+    {
+      "userId": "ADMIN-AAYUSH",
+      "username": "Unknown",
+      "query": "Emoji sahit",
+      "timestamp": "2026-10-30T14:28:23.850Z",
+      "hasImage": false
+    },
+    {
+      "userId": "ADMIN-AAYUSH",
+      "username": "Unknown",
+      "query": "Motivate lines",
+      "timestamp": "2026-10-30T14:29:01.990Z",
+      "hasImage": false
+    },
+    {
+      "userId": "ADMIN-AAYUSH",
+      "username": "Unknown",
+      "query": "Mero gf Alisha CHAUDHARY over risauxau harek Kura na K garnu",
+      "timestamp": "2026-10-30T14:29:36.485Z",
+      "hasImage": false
+    },
+    {
+      "userId": "ADMIN-AAYUSH",
+      "username": "Unknown",
+      "query": "K garnu",
+      "timestamp": "2026-10-30T14:30:07.507Z",
+      "hasImage": false
+    },
+    {
+      "userId": "ADMIN-AAYUSH",
+      "username": "Unknown",
+      "query": "Suna",
+      "timestamp": "2026-10-30T14:33:41.333Z",
+      "hasImage": false
+    },
+    {
+      "userId": "ADMIN-AAYUSH",
+      "username": "Unknown",
+      "query": "Sex jasari hunxa",
+      "timestamp": "2026-10-30T14:33:51.231Z",
+      "hasImage": false
+    },
+    {
+      "userId": "ADMIN-AAYUSH",
+      "username": "Unknown",
+      "query": "Suna 1500 scam GAREKO THIYO yeuta le 4 din aagi aaile case lagxa",
+      "timestamp": "2026-10-30T14:34:26.957Z",
+      "hasImage": false
+    }
+  ]
+}
